@@ -13,6 +13,9 @@
         }
     },
     "extra": {
+        "branch-alias": {
+            "dev-main": "0.1-dev"
+        },
         "laravel": {
             "providers": [
                 "Plugindata\\TestPackage\\TestPackageServiceProvider"
